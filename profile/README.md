@@ -20,6 +20,22 @@ RAG 시스템(Retrieval-Augmented Generation)을 통해 매일의 일상 속에�
    - 주간, 월간 단위의 건강 데이터 리포트로 상태를 시각적으로 파악하고, 축적된 데이터를 바탕으로 개인화된 추천을 제공합니다.
 
 
+### Parsing 시퀀스 다이어그램
+![image](https://github.com/user-attachments/assets/0440b87f-6371-4939-8921-90186371ec2a)
+
+### Chunking 시퀀스 다이어그램
+![image](https://github.com/user-attachments/assets/c00753ba-12ed-4952-9d94-7a8843cedd4f)
+
+### Vector Embedding 시퀀스 다이어그램
+![image](https://github.com/user-attachments/assets/b6bec3d4-2914-43d6-9653-f17ee5466882)
+
+### Retrieving 시퀀스 다이어그램
+![image](https://github.com/user-attachments/assets/1d1891d1-cbd6-4bd0-8975-afd95330f7d1)
+
+### Prompt 시퀀스 다이어그램
+![image](https://github.com/user-attachments/assets/96cdd9fa-9714-4997-af28-4082bf7b110c)
+
+
 ### WellfitZone 시퀀스 다이어그램
 ```mermaid
 sequenceDiagram
