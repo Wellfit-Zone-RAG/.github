@@ -1,4 +1,4 @@
-## 🙌 Wellfit Zone
+![image](https://github.com/user-attachments/assets/d8ed2906-bb52-4b04-963b-707575c93eff)## 🙌 Wellfit Zone
 "AI와 함께하는 당신만의 맞춤형 웰니스 여정”  
 (보안서약서로 인해 소스코드를 보여드리지 못하는 점 양해 부탁드립니다.)
 
@@ -24,7 +24,7 @@ RAG 시스템(Retrieval-Augmented Generation)을 통해 매일의 일상 속에�
 ![image](https://github.com/user-attachments/assets/0440b87f-6371-4939-8921-90186371ec2a)
 
 ### Chunking 시퀀스 다이어그램
-![image](https://github.com/user-attachments/assets/c00753ba-12ed-4952-9d94-7a8843cedd4f)
+![image](https://github.com/user-attachments/assets/6661ad9c-36b8-4e9f-b11b-e6cdc1ab449f)
 
 ### Vector Embedding 시퀀스 다이어그램
 ![image](https://github.com/user-attachments/assets/b6bec3d4-2914-43d6-9653-f17ee5466882)
